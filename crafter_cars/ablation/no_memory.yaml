@@ -1,0 +1,5 @@
+cars:
+  method_name: w_o_memory
+  use_bayesian_belief: true
+  use_risk_replanning: true
+  use_skill_memory: false
