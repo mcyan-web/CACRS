@@ -5,7 +5,7 @@ exp_name: something_default
 openai_key: null
 openai_org: null
 max_seq_tokens: 200 # Max token length of both text obs and goals
-sbert_path: '/workspace/tools/all-MiniLM-L6-v2'
+sbert_path: 'all-MiniLM-L6-v2'
 ppo_config: /CACRS/crafter_cars/ppo
 ppoad_config: ppo_ad
 use_ckpt: True
