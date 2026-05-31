@@ -237,28 +237,12 @@ Reviewers can inspect the following correspondences:
 
 ---
 
-## 11. Citation
-
-If this repository is used, please cite the corresponding manuscript:
-
-```bibtex
-@article{cacrs2026,
-  title   = {CACRS: Confidence-Aware Causal Re-planning with Skills Memory for Long-Horizon Reinforcement Learning},
-  author  = {Ma, Chengyan and Wu, Yulin and Qi, Shuhan and Xiao, Xinyu and Wang, Jingjing and Wang, Xuan and Zhang, Jiajia},
-  journal = {Knowledge-Based Systems},
-  year    = {2026},
-  note    = {Under review}
-}
-```
-
----
-
-## 12. License
+## 11. License
 
 Please refer to the `LICENSE` file included in the repository.
 
 ---
 
-## 13. Contact
+## 12. Contact
 
 For questions about reproduction, please contact the corresponding author listed in the manuscript.
